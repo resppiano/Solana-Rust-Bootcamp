@@ -184,25 +184,25 @@ I'm currently enrolled in Encode Club's free 6-week Solana Rust bootcamp, suppor
 **Description**: Basic token creation and management
 **Status**: 🔄 In Progress
 **Tech Stack**: Rust, Solana CLI
-**[Link to project folder](./projects/token-program/)**
+
 
 ### Project 2: DeFi Protocol
 **Description**: Simple lending/borrowing mechanism
 **Status**: ⏳ Upcoming
 **Tech Stack**: Rust, Anchor, TypeScript
-**[Link to project folder](./projects/defi-protocol/)**
+
 
 ### Project 3: NFT Marketplace
 **Description**: Create, mint, and trade NFTs
 **Status**: ⏳ Upcoming
 **Tech Stack**: Rust, Anchor, Metaplex, React
-**[Link to project folder](./projects/nft-marketplace/)**
+
 
 ### Final Capstone Project
 **Description**: [To be determined]
 **Status**: ⏳ Planning Phase
 **Tech Stack**: Full Solana stack
-**[Link to project folder](./projects/capstone/)**
+
 
 ## 📚 Study Resources & Notes
 
@@ -212,15 +212,7 @@ I'm currently enrolled in Encode Club's free 6-week Solana Rust bootcamp, suppor
 - [Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Solana Cookbook](https://solanacookbook.com)
 
-### My Study Notes
-- [Rust Fundamentals](./notes/rust-fundamentals.md)
-- [Solana Architecture](./notes/solana-architecture.md)
-- [Anchor Framework](./notes/anchor-framework.md)
-- [DeFi Concepts](./notes/defi-concepts.md)
-- [NFT Standards](./notes/nft-standards.md)
 
-### Helpful Tutorials & Articles
-- [Add your favorite resources here]
 
 ## 💡 Key Takeaways & Reflections
 
@@ -235,12 +227,6 @@ I'm currently enrolled in Encode Club's free 6-week Solana Rust bootcamp, suppor
 
 ## 🤝 Connect With Me
 
-Feel free to reach out if you're also learning Solana development or have questions about my projects!
-
-- **GitHub**: [Your GitHub Profile]
-- **Twitter**: [Your Twitter Handle]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Discord**: [Your Discord Handle]
 
 ## 📈 Progress Tracking
 
@@ -261,8 +247,8 @@ Feel free to reach out if you're also learning Solana development or have questi
 
 ## 🏆 Achievements & Milestones
 
-- [ ] Completed bootcamp application and was accepted
-- [ ] Set up complete development environment
+- [X ] Completed bootcamp application and was accepted
+- [X] Set up complete development environment
 - [ ] Deployed first program to devnet
 - [ ] Created first custom token
 - [ ] Built first DeFi application
