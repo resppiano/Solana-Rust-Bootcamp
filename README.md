@@ -53,12 +53,6 @@ I'm currently enrolled in Encode Club's free 6-week Solana Rust bootcamp, suppor
 - Development environment setup
 - Basic wallet operations
 
-**Assignments:**
-- [ ] Set up Solana development environment
-- [ ] Complete Rust basics exercises
-- [ ] Create first Solana wallet
-- [ ] Deploy hello world program
-
 **Key Learnings:**
 - Understanding Solana's proof-of-stake consensus
 - Rust ownership and borrowing concepts
@@ -79,9 +73,6 @@ I'm currently enrolled in Encode Club's free 6-week Solana Rust bootcamp, suppor
 - [ ] Create token transfer mechanisms
 - [ ] Write comprehensive tests
 
-**Key Learnings:**
-- [Add your learnings here as you complete the week]
-
 ---
 
 ### ⏳ Week 3: Frameworks & Security (Anchor Framework & DeFi & Security)
@@ -97,8 +88,6 @@ I'm currently enrolled in Encode Club's free 6-week Solana Rust bootcamp, suppor
 - [ ] Security audit exercise
 - [ ] Error handling and validation
 
-**Key Learnings:**
-- [Add your learnings here as you complete the week]
 
 ---
 
@@ -115,8 +104,6 @@ I'm currently enrolled in Encode Club's free 6-week Solana Rust bootcamp, suppor
 - [ ] Implement royalty mechanisms
 - [ ] Metadata management system
 
-**Key Learnings:**
-- [Add your learnings here as you complete the week]
 
 ---
 
@@ -212,26 +199,10 @@ I'm currently enrolled in Encode Club's free 6-week Solana Rust bootcamp, suppor
 - [Rust Programming Language](https://doc.rust-lang.org/book/)
 - [Solana Cookbook](https://solanacookbook.com)
 
-
-
-## 💡 Key Takeaways & Reflections
-
-### Week 1 Reflections
-- [Add your thoughts on the first week]
-
-### Challenges I've Overcome
-- [Document problems you've solved]
-
-### "Aha!" Moments
-- [Note breakthrough moments in understanding]
-
-## 🤝 Connect With Me
-
-
-## 📈 Progress Tracking
+### 📈 Progress Tracking
 
 ### Homework Completion
-- Week 1: ⏳ In Progress
+- Week 1: ⏳ In Progress (Done)
 - Week 2: ⏳ Not Started
 - Week 3: ⏳ Not Started
 - Week 4: ⏳ Not Started
